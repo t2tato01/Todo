@@ -1,5 +1,7 @@
 # Oulu University of Applied Sciences Android Walkthrough
 
+![Screenshot](ScreenshotTodo.png)
+
 ## Overview
 
 This walkthrough guides you through the process of creating a Todo app in Android, focusing on creating a ViewModel to manage the data. The walkthrough is divided into three parts:
